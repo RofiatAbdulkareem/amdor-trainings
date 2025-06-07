@@ -1,0 +1,1 @@
+# amdor-trainings
