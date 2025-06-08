@@ -1,0 +1,13 @@
+docker build
+docker build -t femi_app:v1 .
+docker run 
+docker run -it <container_id> sh
+docker images 
+docker images -a
+docker ps 
+docker ps -a
+docker image prune - remove dangling images
+docker container prune 
+docker exec -it <container_id> sh
+docker --help
+docker image rm -f <container_id>
